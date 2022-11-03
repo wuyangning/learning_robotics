@@ -2,7 +2,8 @@
 ###
 - CoppeliaSim版本：V4.4.0 EDU
 - 默认的仿真步长被修改为：0.02s
-- python控制程序基于CoppeliaSim提供的zmqRemoteApi实现，依赖numpy
+- python控制程序基于CoppeliaSim提供的zmqRemoteApi实现：https://github.com/CoppeliaRobotics/zmqRemoteApi
+- 控制程序依赖：numpy
 - 姿态的运动学控制是在底层实现了一个PD控制，貌似API本身不支持直接设定刚体的角速度
 
 ###
