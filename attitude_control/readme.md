@@ -45,11 +45,13 @@
 
 ###
 > **参考文献**：
-> [1] Lynch K M, Park F C. Modern robotics[M]. Cambridge University Press, 2017. 
-> [2] Chaturvedi N A, Sanyal A K, McClamroch N H. Rigid-body attitude control[J]. IEEE control systems magazine, 2011, 31(3): 30-51.
 
-> [3] https://github.com/Krasjet/quaternion
-
-> [4] 高翔，张涛，"视觉SLAM十四讲"[M]. 电子工业出版社，2017.
+ [1] Lynch K M, Park F C. Modern robotics[M]. Cambridge University Press, 2017. 
+ 
+ [2] Chaturvedi N A, Sanyal A K, McClamroch N H. Rigid-body attitude control[J]. IEEE control systems magazine, 2011, 31(3): 30-51.
+ 
+ [3] https://github.com/Krasjet/quaternion
+ 
+ [4] 高翔，张涛，"视觉SLAM十四讲"[M]. 电子工业出版社，2017.
 
 
